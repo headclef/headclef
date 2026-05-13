@@ -150,16 +150,26 @@ I enjoy understanding how systems work under the hood, solving real business pro
 
 ---
 
-## 📊 GitHub Overview
+## 📊 Developer Focus
 
-<div align="center">
-  <a href="https://github.com/headclef">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=headclef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/headclef">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=headclef&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>ASP.NET Core, ASP.NET MVC, Web API, C#</td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>SQL Server, T-SQL, database-driven systems</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>HTML, CSS, JavaScript, React, Bootstrap</td>
+  </tr>
+  <tr>
+    <td><strong>Workflow</strong></td>
+    <td>Git, GitHub, Postman, PowerShell, Task Scheduler</td>
+  </tr>
+</table>
 
 ---
 
