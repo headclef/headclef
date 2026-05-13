@@ -1,8 +1,20 @@
+<!--
+  Furkan Tural - GitHub Profile README
+  Theme: GitHub Dark / .NET Purple / Microsoft Blue
+-->
+
 <h1 align="center">Hi, I'm Furkan Tural 👋</h1>
 
 <p align="center">
   <strong>Full-Stack .NET Developer</strong><br/>
-  Building backend-heavy web applications, APIs, admin panels, and database-driven business solutions.
+  Backend-heavy web applications, APIs, admin panels, and database-driven business solutions.
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Full-Stack+.NET+Developer;Backend-heavy+Web+Applications;APIs+%7C+SQL+Server+%7C+Admin+Panels;Building+business-oriented+software+solutions" 
+    alt="Typing SVG" 
+  />
 </p>
 
 <p align="center">
@@ -11,6 +23,9 @@
   </a>
   <a href="https://www.linkedin.com/in/furkantural/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Furkan%20Tural-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/headclef" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-headclef-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:furkanturalofficial@outlook.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
@@ -21,7 +36,7 @@
 
 ## 🧭 About Me
 
-I'm a Full-Stack .NET Developer from Türkiye, focused on building practical, maintainable, and business-oriented software solutions.
+I'm a **Full-Stack .NET Developer** from Türkiye, focused on building practical, maintainable, and business-oriented software solutions.
 
 I mainly work with **ASP.NET Core**, **ASP.NET MVC**, **Web API**, **C#**, **SQL Server**, and modern frontend technologies. My experience is especially focused on backend-heavy systems, database-driven applications, admin panels, API integrations, and enterprise software workflows.
 
@@ -31,47 +46,17 @@ I enjoy understanding how systems work under the hood, solving real business pro
 
 ## 🛠️ Tech Stack
 
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/ASP.NET%20MVC-68217A?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" />
-  <img src="https://img.shields.io/badge/Web%20API-0078D4?style=for-the-badge&logo=swagger&logoColor=white" alt="Web API" />
-  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ADO.NET" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,angular,html,css,bootstrap,mysql,git,github,visualstudio,vscode,postman,powershell&perline=8" alt="Tech Stack Icons" />
 </p>
 
-### Database
-
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/T--SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-### Tools & Workflow
-
-<p>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-</p>
+| Area | Technologies |
+|---|---|
+| **Backend** | C#, .NET, ASP.NET Core, ASP.NET MVC, Web API, ADO.NET |
+| **Database** | SQL Server, T-SQL, MySQL |
+| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Angular, Bootstrap |
+| **Tools & Workflow** | Visual Studio, VS Code, Git, GitHub, Postman, PowerShell, Task Scheduler |
+| **Focus Areas** | Admin panels, APIs, CRUD systems, reporting screens, data synchronization, enterprise workflows |
 
 ---
 
@@ -90,14 +75,14 @@ I enjoy understanding how systems work under the hood, solving real business pro
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
 <table>
   <tr>
     <td width="50%">
-      <h3>furkantural.com</h3>
+      <h3>🌐 furkantural.com</h3>
       <p>
-        Personal portfolio website designed to showcase my developer identity, projects, technical background, and professional work.
+        Personal portfolio website focused on developer identity, project showcase, technical background, and professional presence.
       </p>
       <p>
         <strong>Focus:</strong> Portfolio, personal branding, web development
@@ -107,7 +92,7 @@ I enjoy understanding how systems work under the hood, solving real business pro
       </p>
     </td>
     <td width="50%">
-      <h3>Admin Panel System</h3>
+      <h3>🧩 Admin Panel System</h3>
       <p>
         A reusable management panel structure with CRUD pages, table listings, filters, pagination, modals, status controls, and detail views.
       </p>
@@ -118,21 +103,21 @@ I enjoy understanding how systems work under the hood, solving real business pro
   </tr>
   <tr>
     <td width="50%">
-      <h3>API & Data Synchronization Services</h3>
+      <h3>🔄 API & Data Synchronization Services</h3>
       <p>
         Backend services designed to transfer, synchronize, and process business data between client databases and external systems.
       </p>
       <p>
-        <strong>Focus:</strong> Web API, SQL Server, scheduled jobs, integrations
+        <strong>Focus:</strong> Web API, SQL Server, PowerShell, Task Scheduler
       </p>
     </td>
     <td width="50%">
-      <h3>Business Web Applications</h3>
+      <h3>🏢 Enterprise Web Modules</h3>
       <p>
-        Enterprise-focused web modules built around data management, reporting, user operations, and internal process automation.
+        Business-oriented web modules built around data management, reporting, user operations, and internal process automation.
       </p>
       <p>
-        <strong>Focus:</strong> .NET, database-driven systems, enterprise software
+        <strong>Focus:</strong> .NET, T-SQL, JavaScript, enterprise software
       </p>
     </td>
   </tr>
@@ -140,36 +125,64 @@ I enjoy understanding how systems work under the hood, solving real business pro
 
 ---
 
-## 📌 Currently Improving
+## 🎯 Current Focus
 
-- Modern frontend development with **React**, **TypeScript**, and component-based UI structures
-- Scalable backend architecture with **ASP.NET Core**
-- Clean code, maintainability, and project organization
-- Advanced SQL, reporting logic, and database performance
-- API design, integration patterns, and enterprise software workflows
+- Building clean and maintainable backend services with **ASP.NET Core**
+- Designing practical admin panel structures and business workflows
+- Improving frontend architecture with **React**, **TypeScript**, and component-based UI
+- Working deeper with **SQL Server**, **T-SQL**, reporting logic, and data operations
+- Exploring interactive portfolio experiences with terminal-style interfaces
 
 ---
 
-## 📊 Developer Focus
+## 📊 Developer Snapshot
 
 <table>
   <tr>
-    <td><strong>Backend</strong></td>
-    <td>ASP.NET Core, ASP.NET MVC, Web API, C#</td>
+    <td><strong>Main Stack</strong></td>
+    <td>C#, .NET, ASP.NET Core, SQL Server, JavaScript</td>
   </tr>
   <tr>
-    <td><strong>Database</strong></td>
-    <td>SQL Server, T-SQL, database-driven systems</td>
+    <td><strong>Strong Side</strong></td>
+    <td>Backend-heavy web applications and database-driven systems</td>
   </tr>
   <tr>
-    <td><strong>Frontend</strong></td>
-    <td>HTML, CSS, JavaScript, React, Bootstrap</td>
+    <td><strong>Business Focus</strong></td>
+    <td>Admin panels, APIs, reporting screens, integrations, enterprise workflows</td>
   </tr>
   <tr>
-    <td><strong>Workflow</strong></td>
-    <td>Git, GitHub, Postman, PowerShell, Task Scheduler</td>
+    <td><strong>Development Style</strong></td>
+    <td>Practical, maintainable, business-oriented, detail-focused</td>
   </tr>
 </table>
+
+<!--
+Optional GitHub profile cards.
+If these images break or load slowly, you can remove this section safely.
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=headclef&theme=github_dark" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=headclef&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=headclef&theme=github_dark" alt="Most Commit Language" />
+</p>
+-->
+
+---
+
+## 🎧 Beyond Code
+
+I also create music and digital content under the name **headclef**, combining software, creativity, and production into a personal digital identity.
+
+<p>
+  <a href="https://www.youtube.com/@headclef" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-headclef-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
 
 ---
 
