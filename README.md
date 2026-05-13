@@ -1,69 +1,187 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=3000&pause=750&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=100&lines=Hi!;I+am+Furkan+TURAL.;I+am+a+student+from+Turkey.)
+<h1 align="center">Hi, I'm Furkan Tural 👋</h1>
 
-<div align = "center">
-	<h2>🪐 About Me 🪐</h2>
-	<img alt = "About Me Image" src = "https://github.com/headclef/headclef/assets/44907254/81efa7ed-7bfd-45a1-bbbb-89c025fc68d6" align = "bottom">
-</div>
-<div align = "justify">
-	<p>
-		I have been working on learning Full Stack Development of web applications by using Asp.NET, Mssql, Tsql, Html, C# since april 2023. At the beginning of April 2023, I have started a bootcamp with Asp.Net Core & C# by using Visual Studio.
-		I have gotten some Java application development classes back in my junior year at Kocaeli University by using Flowgorithm, Eclipse and NetBeans. After a while i've started developing starter apps for learning Java further by using Android Studio.
-		I'm not proficent at it but still had some experience with it is all i can say.
-	</p>
+<p align="center">
+  <strong>Full-Stack .NET Developer</strong><br/>
+  Building backend-heavy web applications, APIs, admin panels, and database-driven business solutions.
+</p>
+
+<p align="center">
+  <a href="https://furkantural.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-furkantural.com-512BD4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/furkantural/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Furkan%20Tural-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:furkanturalofficial@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 🧭 About Me
+
+I'm a Full-Stack .NET Developer from Türkiye, focused on building practical, maintainable, and business-oriented software solutions.
+
+I mainly work with **ASP.NET Core**, **ASP.NET MVC**, **Web API**, **C#**, **SQL Server**, and modern frontend technologies. My experience is especially focused on backend-heavy systems, database-driven applications, admin panels, API integrations, and enterprise software workflows.
+
+I enjoy understanding how systems work under the hood, solving real business problems with clean code, and turning complex requirements into usable software.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-68217A?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" />
+  <img src="https://img.shields.io/badge/Web%20API-0078D4?style=for-the-badge&logo=swagger&logoColor=white" alt="Web API" />
+  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ADO.NET" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/T--SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+</p>
+
+---
+
+## 💼 Experience
+
+### Teknolojik Çözümler Merkezi Bilişim ve Danışmanlık A.Ş.
+
+**Software Developer / Expert Software Developer Assistant**  
+`Sep 2023 - Present`
+
+- Developed and maintained enterprise web applications using **ASP.NET**, **C#**, **SQL Server**, and frontend technologies.
+- Worked on admin panels, CRUD operations, reporting screens, database structures, and business-oriented web modules.
+- Built and supported API-based workflows for data communication between internal and external systems.
+- Contributed to database operations, stored procedures, T-SQL queries, and backend service logic.
+- Improved reliability of scheduled and service-based processes using tools such as **PowerShell**, **Task Scheduler**, and **Web API**.
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>furkantural.com</h3>
+      <p>
+        Personal portfolio website designed to showcase my developer identity, projects, technical background, and professional work.
+      </p>
+      <p>
+        <strong>Focus:</strong> Portfolio, personal branding, web development
+      </p>
+      <p>
+        <a href="https://furkantural.com" target="_blank">Visit Website</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Admin Panel System</h3>
+      <p>
+        A reusable management panel structure with CRUD pages, table listings, filters, pagination, modals, status controls, and detail views.
+      </p>
+      <p>
+        <strong>Focus:</strong> ASP.NET, SQL Server, admin UI, business workflows
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>API & Data Synchronization Services</h3>
+      <p>
+        Backend services designed to transfer, synchronize, and process business data between client databases and external systems.
+      </p>
+      <p>
+        <strong>Focus:</strong> Web API, SQL Server, scheduled jobs, integrations
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Business Web Applications</h3>
+      <p>
+        Enterprise-focused web modules built around data management, reporting, user operations, and internal process automation.
+      </p>
+      <p>
+        <strong>Focus:</strong> .NET, database-driven systems, enterprise software
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📌 Currently Improving
+
+- Modern frontend development with **React**, **TypeScript**, and component-based UI structures
+- Scalable backend architecture with **ASP.NET Core**
+- Clean code, maintainability, and project organization
+- Advanced SQL, reporting logic, and database performance
+- API design, integration patterns, and enterprise software workflows
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+  <a href="https://github.com/headclef">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=headclef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/headclef">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=headclef&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  </a>
 </div>
 
-<div>
-	<h2 align = "center">🪐 Experiences 🪐</h2>
-	<p align = "justify">
-		Teknolojik Çözümler Merkezi Bilişim ve Danışmanlık A.Ş., Expert Software Developer Assistant (09.2023 - ...)
-	</p>
-</div>
+---
 
-<div align = "center">
-	<h2>🪐 The Languages, Frameworks & Tools I am proficient about 🪐</h2>
-	<img alt = "The Languages, Frameworks & Tools I am proficient about" src = "https://github.com/headclef/headclef/assets/44907254/0058858d-3988-473b-adeb-809add7ea0d2" align = "bottom">
-</div>
-<div align = "center">
-	<a target = "_blank"><img alt = "Java" src = "https://img.shields.io/badge/-Java-3776AB?style=flat-square&logo=oracle&logoColor=white" align = "middle" height = "25"></a>
-	<a target = "_blank"><img alt = "Python" src = "https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white" align = "middle" height = "25"></a>
-	<a target = "_blank"><img alt = "C#" src = "https://img.shields.io/badge/-C%23-3776AB?style=flat-square&logo=c-sharp&logoColor=white" align = "middle" height = "25"></a>
-</div>
-<div align = "center">
-	<a target = "_blank"><img alt = "Visual Studio" src = "https://img.shields.io/badge/-Visual%20Studio-3776AB?style=flat-square&logo=visual-studio&logoColor=white" align = "middle" height = "25"></a>
-	<a target = "_blank"><img alt = "Visual Studio Code" src = "https://img.shields.io/badge/-Visual%20Studio%20Code-3776AB?style=flat-square&logo=visual-studio-code&logoColor=white" align = "middle" height = "25"></a>
-	<a target = "_blank"><img alt = "Eclipse" src = "https://img.shields.io/badge/-Eclipse-3776AB?style=flat-square&logo=eclipse&logoColor=white" align = "middle" height = "25"></a>
-	<a target = "_blank"><img alt = "Android Studio" src = "https://img.shields.io/badge/-Android%20Studio-3776AB?style=flat-square&logo=android-studio&logoColor=white" align = "middle" height = "25"></a>
-</div>
+## 📫 Connect with Me
 
-<div align = "center">
-	<h2>🪐 Social 🪐</h2>
-	<img alt = "Social Image" src = "https://github.com/headclef/headclef/assets/44907254/6e78bc9c-cc1e-44c3-9e5a-fb4ef159a651" align = "bottom">
-</div>
-<div align = "center">
-	<a href = "https://www.twitch.tv/deofhell" target = "_blank"><img alt = "Twitch" src = "https://img.shields.io/badge/-Twitch-3776AB?style=flat-square&logo=twitch&logoColor=white" align = "middle" height = "25"></a>
-	<a href = "https://www.youtube.com/@headclef" target = "_blank"><img alt = "Youtube" src = "https://img.shields.io/badge/-Youtube-3776AB?style=flat-square&logo=youtube&logoColor=white" align = "middle" height = "25"></a>
-</div>
-<div align = "center">
-	<a target = "_blank"><img alt = "Discord" src = "https://img.shields.io/badge/-headclef%239871-3776AB?style=flat-square&logo=discord&logoColor=white" align = "middle" height = "25"></a>
-	<a href = "https://www.facebook.com/headcleFT/" target = "_blank"><img alt = "Facebook" src = "https://img.shields.io/badge/-Facebook-3776AB?style=flat-square&logo=facebook&logoColor=white" align = "middle" height = "25"></a>
-	<a href = "https://www.instagram.com/headclef/" target = "_blank"><img alt = "Instagram" src = "https://img.shields.io/badge/-Instagram-3776AB?style=flat-square&logo=instagram&logoColor=white" align = "middle" height = "25"></a>
-</div>
-<div align = "center">
-	<a href = "https://www.hackerrank.com/elbisetakim" target = "_blank"><img alt = "Hackerrank" src = "https://img.shields.io/badge/-Hackerrank-3776AB?style=flat-square&logo=hackerrank&logoColor=white" align = "middle" height = "25"></a>
-	<a href = "https://github.com/headclef" target = "_blank"><img alt = "Github" src = "https://img.shields.io/badge/-Github-3776AB?style=flat-square&logo=github&logoColor=white" align = "middle" height = "25"></a>
-</div>
+<p>
+  <a href="https://furkantural.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-furkantural.com-512BD4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/furkantural/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Furkan%20Tural-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/headclef" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-headclef-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:furkanturalofficial@outlook.com">
+    <img src="https://img.shields.io/badge/Email-furkanturalofficial%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<div align = "center">
-	<h2>🪐 Contact 🪐</h2>
-	<img alt = "Contact Image" src = "https://github.com/headclef/headclef/assets/44907254/07cf8e79-0ea7-439c-9781-2dfcc7d735f5" align = "bottom">
-</div>
-<div align = "center">
-	<a href = "https://www.linkedin.com/in/furkantural" target = "_blank"><img alt = "LinkedIn" src = "https://img.shields.io/badge/-LinkedIn-3776AB?style=flat-square&logo=Linkedin&logoColor=white" align = "middle" height = "25"></a>
-	<a target = "_blank"><img alt = "E - Mail" src= "https://img.shields.io/badge/-furkanturalofficial@outlook.com-3776AB?style=flat-square&logo=microsoft-outlook&logoColor=white" align = "middle" height = "25"></a>
-</div>
-<div align = "center">
-	</br>
-	<img alt = "Page Ending Image" src = "https://github.com/headclef/headclef/assets/44907254/ab6d02bc-de12-4a22-b7d0-3b1cbdc6f796" align = "bottom">
-</div>
+---
 
-<!-- style = "border-style: solid; border-width: 10px; border-color: #3776ab; border-radius: 20px" -->
+<p align="center">
+  <em>Building practical software, learning continuously, and turning business needs into working systems.</em>
+</p>
